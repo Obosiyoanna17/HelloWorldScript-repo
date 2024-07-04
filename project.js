@@ -6,4 +6,4 @@ var day = myDate.getDay();
 
 console.log(myDate);
 console.log(months[month]);
-console.log(day);globalThis
+console.log(day);
