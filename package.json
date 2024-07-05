@@ -1,7 +1,7 @@
 {
   "name": "30-days-of-coding-challenge",
   "version": "1.0.0",
-  "description": "npm.js",
+  "description": "'Npm init project\"",
   "main": "project.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
